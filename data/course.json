@@ -1,0 +1,30 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-122"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-122"
+  },
+  "course_title": "21W",
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-122"
+  },
+  "learning_resource_types": [],
+  "site_uid": "78b11a4c-bda0-4a0a-a84e-50b97f6e7150"
+}
